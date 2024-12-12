@@ -9,7 +9,7 @@
 2.运行测试指令  
 ` spark-submit project3.py input output d s`  
 参数：  
-input 输入文件  
-output 输出文件，可改为hdfs，例如file:///  
-d 距离  
-s 相似度阈值  
+- input 输入文件  
+- output 输出文件，可改为hdfs，例如file:///  
+- d 距离  
+- s 相似度阈值  
